@@ -52,7 +52,7 @@
     "cli-ux": "~5.3.3",
     "fs-extra": "^8.1.0",
     "lodash": "^4.17.19",
-    "node-fetch": "~2.6.0",
+    "node-fetch": "~3.1.1",
     "tslib": "^2.0.3",
     "username": "^4.1.0"
   },
