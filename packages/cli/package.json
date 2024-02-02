@@ -64,7 +64,7 @@
     "@microsoft/bf-cli-plugins": "1.0.0",
     "@microsoft/bf-lg-cli": "1.0.0",
     "@microsoft/bf-dialog": "1.0.0",
-    "@oclif/command": "~1.5.19",
+    "@oclif/command": "~1.8.36",
     "@oclif/config": "~1.13.3",
     "@oclif/errors": "~1.2.2",
     "@oclif/plugin-help": "~2.1.6",
