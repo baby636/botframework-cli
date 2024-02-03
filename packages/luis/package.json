@@ -57,7 +57,7 @@
     "username": "^4.1.0"
   },
   "devDependencies": {
-    "@oclif/dev-cli": "~1.22.2",
+    "@oclif/dev-cli": "~1.26.10",
     "@oclif/plugin-help": "~2.2.1",
     "@oclif/test": "~1.2.5",
     "@oclif/tslint": "~3.1.1",
